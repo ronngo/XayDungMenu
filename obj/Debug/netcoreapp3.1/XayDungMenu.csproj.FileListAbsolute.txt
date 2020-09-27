@@ -1,0 +1,13 @@
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.exe
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.deps.json
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.runtimeconfig.json
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.runtimeconfig.dev.json
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.dll
+D:\baitap\XayDungMenu\bin\Debug\netcoreapp3.1\XayDungMenu.pdb
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.csprojAssemblyReference.cache
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.AssemblyInfoInputs.cache
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.AssemblyInfo.cs
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.csproj.CoreCompileInputs.cache
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.dll
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.pdb
+D:\baitap\XayDungMenu\obj\Debug\netcoreapp3.1\XayDungMenu.genruntimeconfig.cache
